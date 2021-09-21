@@ -1,0 +1,12 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: palevioletred;
+    background-color: #000;
+}
+
+h1{
+    margin: 0px;
+    border: rgba(red, green, blue, alpha);
+    padding: 50px;
+}
+
